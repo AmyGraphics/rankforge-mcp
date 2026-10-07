@@ -1,0 +1,20 @@
+name: rankforge-mcp
+displayName: RankForge - Autonomous SEO, Keyword & SERP MCP
+description: Universal SEO agency for Cursor, Claude & Windsurf. On-page SEO health audits, keyword search intent & difficulty estimation, Google sitemap.xml & robots.txt generator, and SERP rich snippet simulator.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/rankforge-mcp
+repository: https://github.com/AmyGraphics/rankforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/rankforge-mcp/main/icon.png
+keywords:
+  - seo
+  - keyword-research
+  - serp-simulator
+  - sitemap-generator
+  - robots-txt
+  - onpage-seo
+  - google-ranking
+  - cursor
+  - claude
+startCommand:
+  type: http
+  url: https://rankforge-api.agentweb-hub.workers.dev/mcp
